@@ -12,6 +12,7 @@ In order to use this code, create a package in catkin workspace, and place all o
 (for more information on MiRo or ROS, the wikis for COM3528 and COM2009 are very helpful: https://github.com/AlexandrLucas/COM3528/wiki https://github.com/tom-howard/COM2009/wiki)
 
 The system supports various functionality, including:
+
 – Accounting for negation of commands, and do not execute negated commands
 
 – Accounting for redundancy in operations and optimise the list of operations
