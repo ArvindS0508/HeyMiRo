@@ -4,7 +4,7 @@ University of Sheffield Dissertation Project 2022 - "Hey MiRo!" Making the MiRo 
 
 Installation steps - Use the environment.yml file with Anaconda to setup the environment. Alternatively, use the pip installations specified within to setup all the libraries needed.
 
-Additionally, downloads for NLTK will need to be done using Python and nltk.download(), which includes twitter_samples, punkt, wordnet, averaged_perceptron_tagger, stopwords
+Additionally, downloads for NLTK will need to be done using Python and nltk.download(), which includes twitter_samples, punkt, wordnet, averaged_perceptron_tagger, stopwords. GloVe vector files will also needed to be downloaded, specifically glove.840B.300d.zip as found here: https://nlp.stanford.edu/projects/glove/
 
 The platform used is the MiRo robot, and the operating system used in testing is Ubuntu on the University of Sheffield Diamond Laptops.
 
